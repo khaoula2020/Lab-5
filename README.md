@@ -67,7 +67,7 @@ La validation des entrées est faite avec express-validator, et les erreurs sont
 de façon centralisée.
 
 ### Erreur de validation (400)
-![400](docs/Test POST validation_postman.png)
+![400](./src/docs/ValidationTest.png)
 
 
 ## Documentation Swagger
